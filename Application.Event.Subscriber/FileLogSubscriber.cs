@@ -4,16 +4,9 @@ using System;
 
 namespace Application.Event.Subscriber
 {
-    public class FileLogSubscriber
+    public class FileLogSubscriber : SubscriberBase
     {
-        Subscription<FileLoggerMessage> fileLoggerToken;
-        EventBus eventBus;
-
-        public FileLogSubscriber()
-        {
-            eventBus = EventBus.Instance;
-           
-        }
+        Subscription<FileLoggerMessage> fileLoggerToken; 
 
         public void InitializeSubscription()
         {
