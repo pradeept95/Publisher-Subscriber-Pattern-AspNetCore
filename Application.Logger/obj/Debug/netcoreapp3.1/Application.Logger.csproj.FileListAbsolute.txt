@@ -1,0 +1,9 @@
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\bin\Debug\netcoreapp3.1\Application.Logger.deps.json
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\bin\Debug\netcoreapp3.1\Application.Logger.dll
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\bin\Debug\netcoreapp3.1\Application.Logger.pdb
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\obj\Debug\netcoreapp3.1\Application.Logger.csprojAssemblyReference.cache
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\obj\Debug\netcoreapp3.1\Application.Logger.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\obj\Debug\netcoreapp3.1\Application.Logger.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\obj\Debug\netcoreapp3.1\Application.Logger.AssemblyInfo.cs
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\obj\Debug\netcoreapp3.1\Application.Logger.dll
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\obj\Debug\netcoreapp3.1\Application.Logger.pdb

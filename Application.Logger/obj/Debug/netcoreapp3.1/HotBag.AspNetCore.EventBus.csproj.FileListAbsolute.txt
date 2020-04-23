@@ -1,0 +1,9 @@
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\bin\Debug\netcoreapp3.1\HotBag.AspNetCore.EventBus.deps.json
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\bin\Debug\netcoreapp3.1\HotBag.AspNetCore.EventBus.dll
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\bin\Debug\netcoreapp3.1\HotBag.AspNetCore.EventBus.pdb
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\obj\Debug\netcoreapp3.1\HotBag.AspNetCore.EventBus.csprojAssemblyReference.cache
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\obj\Debug\netcoreapp3.1\HotBag.AspNetCore.EventBus.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\obj\Debug\netcoreapp3.1\HotBag.AspNetCore.EventBus.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\obj\Debug\netcoreapp3.1\HotBag.AspNetCore.EventBus.AssemblyInfo.cs
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\obj\Debug\netcoreapp3.1\HotBag.AspNetCore.EventBus.dll
+C:\Users\prade\source\repos\EventBasedDemo\Application.Logger\obj\Debug\netcoreapp3.1\HotBag.AspNetCore.EventBus.pdb

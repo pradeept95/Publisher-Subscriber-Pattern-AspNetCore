@@ -1,0 +1,14 @@
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\bin\Debug\netcoreapp3.1\Application.Event.Subscriber.deps.json
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\bin\Debug\netcoreapp3.1\Application.Event.Subscriber.dll
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\bin\Debug\netcoreapp3.1\Application.Event.Subscriber.pdb
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\bin\Debug\netcoreapp3.1\Application.EventType.Data.dll
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\bin\Debug\netcoreapp3.1\HotBag.AspNetCore.EventBus.dll
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\bin\Debug\netcoreapp3.1\Application.EventType.Data.pdb
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\bin\Debug\netcoreapp3.1\HotBag.AspNetCore.EventBus.pdb
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\obj\Debug\netcoreapp3.1\Application.Event.Subscriber.csprojAssemblyReference.cache
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\obj\Debug\netcoreapp3.1\Application.Event.Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\obj\Debug\netcoreapp3.1\Application.Event.Subscriber.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\obj\Debug\netcoreapp3.1\Application.Event.Subscriber.AssemblyInfo.cs
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\obj\Debug\netcoreapp3.1\Application.Event.Subscriber.csproj.CopyComplete
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\obj\Debug\netcoreapp3.1\Application.Event.Subscriber.dll
+C:\Users\prade\source\repos\EventBasedDemo\Application.Event.Subscriber\obj\Debug\netcoreapp3.1\Application.Event.Subscriber.pdb

@@ -1,0 +1,9 @@
+C:\Users\prade\source\repos\EventBasedDemo\Application.EventType.Data\bin\Debug\netcoreapp3.1\Application.EventType.Data.deps.json
+C:\Users\prade\source\repos\EventBasedDemo\Application.EventType.Data\bin\Debug\netcoreapp3.1\Application.EventType.Data.dll
+C:\Users\prade\source\repos\EventBasedDemo\Application.EventType.Data\bin\Debug\netcoreapp3.1\Application.EventType.Data.pdb
+C:\Users\prade\source\repos\EventBasedDemo\Application.EventType.Data\obj\Debug\netcoreapp3.1\Application.EventType.Data.csprojAssemblyReference.cache
+C:\Users\prade\source\repos\EventBasedDemo\Application.EventType.Data\obj\Debug\netcoreapp3.1\Application.EventType.Data.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\EventBasedDemo\Application.EventType.Data\obj\Debug\netcoreapp3.1\Application.EventType.Data.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\EventBasedDemo\Application.EventType.Data\obj\Debug\netcoreapp3.1\Application.EventType.Data.AssemblyInfo.cs
+C:\Users\prade\source\repos\EventBasedDemo\Application.EventType.Data\obj\Debug\netcoreapp3.1\Application.EventType.Data.dll
+C:\Users\prade\source\repos\EventBasedDemo\Application.EventType.Data\obj\Debug\netcoreapp3.1\Application.EventType.Data.pdb
